@@ -36,7 +36,7 @@ memcached установлен  -  apt install memcached
 
 и запущен - systemctl status memcached
 
-![memcached started.png](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/memcached_started.png)
+![memcached started.png](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/memcached_started.PNG)
 
 
 ## Задание 3. Удаление по TTL в Memcached
@@ -48,13 +48,13 @@ memcached установлен  -  apt install memcached
 Ключ с TTL 20 - видно, что ключ в базе ещё присутствует.
 
 
-![key_ttl_20](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/key_ttl_20.png)
+![key_ttl_20](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/key_ttl_20.PNG)
 
 
 Ключ с TTL 5 - видно, что ключ удалился из базы.
 
 
-![key_ttl_5](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/key_ttl_5.png)
+![key_ttl_5](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/key_ttl_5.PNG)
 
 
 
@@ -67,23 +67,23 @@ memcached установлен  -  apt install memcached
 Redis установлен 
 
 
-![Redis_installed](https://github.com/Andrewsolo1969/11-2-hw/blob/mmaster/img/Redis_installed.png)
+![Redis_installed](https://github.com/Andrewsolo1969/11-2-hw/blob/mmaster/img/Redis_installed.PNG)
 
 
 и запущен
 
 
-![Redis_started](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/Redis_started.png)
+![Redis_started](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/Redis_started.PNG)
 
 
 Redis_cli
 
-![redis_cli](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/redis_cli.png)
+![redis_cli](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/redis_cli.PNG)
 
 
 Запись ключей через redis-cli и поиск ключей в хранилище данных.
 
-![Redis_keys](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/Redis_keys.png)
+![Redis_keys](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/Redis_keys.PNG)
 
 
 
