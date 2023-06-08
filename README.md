@@ -67,7 +67,7 @@ memcached установлен  -  apt install memcached
 Redis установлен 
 
 
-![Redis_installed](https://github.com/Andrewsolo1969/11-2-hw/blob/mmaster/img/Redis_installed.PNG)
+![Redis_installed](https://github.com/Andrewsolo1969/11-2-hw/blob/master/img/Redis_installed.PNG)
 
 
 и запущен
